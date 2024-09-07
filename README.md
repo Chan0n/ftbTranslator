@@ -1,2 +1,2 @@
 # ftbTranslate
-Translate ftb language quests
+Translate ftb language quests into multiple languages
